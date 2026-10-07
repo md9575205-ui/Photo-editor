@@ -1,0 +1,6 @@
+{
+  "name": "LuminaLens",
+  "description": "AI Depth-of-Field & Pro Camera Studio with DSLR bokeh, iPhone 17 portrait lighting, and vibrant landscape enhancements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LuminaLens</string>
+    <string name="tagline">AI Pro Camera &amp; Depth Studio</string>
+    <string name="btn_one_tap">One-Tap Magic</string>
+    <string name="btn_depth_field">Depth &amp; Bokeh</string>
+    <string name="btn_pro_light">Studio Light</string>
+    <string name="btn_landscape">Vibrant Scenery</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_save">Save &amp; Export</string>
+    <string name="btn_pick_photo">Choose Photo</string>
+    <string name="btn_compare">Compare</string>
+    <string name="saved_success">Photo successfully saved to gallery!</string>
+    <string name="preset_iphone17">iPhone 17 Portrait</string>
+    <string name="preset_dslr">DSLR 85mm f/1.2</string>
+    <string name="preset_landscape">Vibrant Sky &amp; Trees</string>
+    <string name="preset_architecture">Architecture HDR</string>
+    <string name="preset_golden_hour">Golden Hour Glow</string>
+    <string name="preset_studio_noir">Studio High-Key</string>
+</resources>
